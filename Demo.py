@@ -1,1 +1,3 @@
 print('ASD')
+
+A = 'Vincent'
