@@ -1,1 +1,1 @@
-select * = True
+print('ASD')
